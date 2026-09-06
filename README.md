@@ -9,8 +9,8 @@ Simulation eines kleinen Firmennetzwerks in Cisco Packet Tracer mit DHCP-Server,
 - DNS: 8.8.8.8
   
 ## Screenshots
-Topologie Webserver Test: (Topology.jpg)
-Webservertest: (Webserver_test.jpg)
+!Topologie Webserver Test: (Topology.jpg)
+!Webservertest: (Webserver_test.jpg)
 
 ## Projektdatei
 Die .pkt-Datei ist direkt im Repository verfuegbar.
